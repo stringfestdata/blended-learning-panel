@@ -1,5 +1,7 @@
 # Resources for panel discussion on blended learning
 
+![Cover](images/cover.png)
+
 
 Thanks for your interest in participating in this panel. I will be in touch with next steps on scheduling and other logistics. Will also create a blog post and marketing campaign for the online event.
 
