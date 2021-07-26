@@ -7,5 +7,7 @@ Thanks for your interest in participating in this panel. I will be in touch with
 
 In the meantime, you can review the [proposed questions in the Word doc](https://github.com/stringfestdata/blended-learning-panel/raw/main/blended-learning-data-literacy-interview.docx). They will be shared with participants as part of the slide deck during the event, the draft of which is also available in this repo.  
 
+In the meantime, don't hesitate to contact [George Mount](mailto:george@stringfestanalytics.com) with any questions or suggestions.
 
 I am looking forward to the program and a special thanks for Shilpam for coordinating all the panelists and more!
+
